@@ -1,1 +1,1 @@
-# matplotlib-practice
+# Machine Learning Practice
